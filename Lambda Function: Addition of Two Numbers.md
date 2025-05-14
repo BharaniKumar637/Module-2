@@ -1,6 +1,7 @@
 # Lambda Function in Python: Addition of Two Numbers
 
-NAME:Swetha K
+NAME: Swetha K
+
 REG NO: 212224230284
 
 ## 🎯 Aim
