@@ -1,8 +1,8 @@
 # Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
-NAME: Swetha K
+NAME: BHARANI KUMAR J
 
-REG NO: 212224230284
+REG NO: 212224240024
 
 ### 🎯 Aim
 To write a Python program to convert the number 16 into its binary representation using built-in Python functions.
@@ -28,9 +28,9 @@ Thus ,the program is executed successfully.
 
 # Functions in Python: Modulo Calculator
 
-NAME: Swetha K
+NAME: BHARANI KUMAR J
 
-REG NO: 212224230284
+REG NO: 212224240024
 
 ### 🎯 Aim
 To write a Python program that defines a function which accepts two values and returns their modulo using the % operator.
@@ -64,9 +64,9 @@ Thus,the program is executed suucessfully.
 
 # Lambda Function in Python: Addition of Two Numbers
 
-NAME: Swetha K
+NAME: BHARANI KUMAR J
 
-REG NO: 212224230284
+REG NO: 212224240024
 
 ### 🎯 Aim
 To write a Python program that defines a lambda function which takes two arguments a and b, and returns their sum.
@@ -99,9 +99,9 @@ Thus,the program is executed successfully.
 
 This project demonstrates a simple Python program to generate Pascal’s Triangle, where the number of rows is provided by the user.
 
-NAME: Swetha K
+NAME: BHARANI KUMAR J
 
-REG NO: 212224230284
+REG NO: 212224240024
 
 ### 🎯 Aim
 To write a Python program that generates Pascal's Triangle using numbers. The number of rows is accepted from the user.
@@ -146,9 +146,9 @@ Thus,the program is executed successfully.
 
 # Loops in Python: Palindrome Number Checker
 
-NAME: Swetha K
+NAME: BHARANI KUMAR J
 
-REG NO: 212224230284
+REG NO: 212224240024
 
 ### 🎯 Aim
 
